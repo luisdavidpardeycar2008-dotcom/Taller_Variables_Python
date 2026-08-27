@@ -8,4 +8,4 @@ print("Nota1: ", nota1)
 print("Nota2: ", nota2)
 print("Nota3: ", nota3)
 
-print("El promedio de tus notas es: ", promedio)
+print("El promedio de tus notas es: ", round(promedio, 2))
